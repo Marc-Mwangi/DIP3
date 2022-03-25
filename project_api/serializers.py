@@ -7,6 +7,6 @@ class UserSerializer(serializers.ModelSerializer):
         #Model beig used
         model= Profile
         #Fields required
-        fields =('picture','user_name','bio','email')
+        fields =('id','picture','user_name','bio','email')
     
     
