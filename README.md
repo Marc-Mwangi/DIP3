@@ -1,6 +1,6 @@
 # DJANGO API WEBSITE
 ## Description
-This project was to build a site for users to .
+This project was to build a site for users to store.
 
 ## Setup/Installation
 All the code is publicly viewable. You can clone the project locally and to view it you can use you browser application. Preferably Chrome browser due to certain format compatibilities.
